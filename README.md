@@ -12,3 +12,7 @@ Economista (UFRGS) e graduando em Ciências Contábeis (UFRGS). Trabalho na inte
 ## Ferramentas
 
 Excel · Python (pandas, openpyxl, pdfplumber) · HTML/JavaScript · Domínio · estudando SQL
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/josiaslessa)
